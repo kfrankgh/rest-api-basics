@@ -1,1 +1,1 @@
-RestApi maven project with testng
+Same project as rest-api-automation project but using maven and testng
