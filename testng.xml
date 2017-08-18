@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="testngSuite" verbose="1" >
+    <test name="restApiTesting" >
+        <classes>
+            <class name="com.restassured.restapi.basicTestsGooglePlaces1" />
+            <class name="com.restassured.restapi.basicTestsGooglePlaces2" />
+            <!--<class name="com.restassured.restapi.basicTestsJira" />-->
+        </classes>
+    </test>
+</suite>
